@@ -1,0 +1,8 @@
+{
+  "name": "raphael-drawing",
+  "version": "0.0.1",
+  "description": "Draw a tapering window with RaphaelJS",
+  "main": "main.js",
+  "author": "tonetechnician",
+  "license": "MIT"
+}
